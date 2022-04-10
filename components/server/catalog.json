@@ -1,0 +1,62 @@
+[
+    {
+        "id": "el1",
+        "name": "barby",
+        "img": "img/catalog/barby.jpg",
+        "price": 3999
+    },
+    {
+        "id": "el2",
+        "name": "bear",
+        "img": "img/catalog/bear.jpg",
+        "price": 2999
+    },
+    {
+        "id":  "el3",
+        "name": "pups",
+        "img": "img/catalog/pups.jpg",
+        "price": 2999
+    },
+    {
+        "id":  "el4",
+        "name": "chair",
+        "img": "img/catalog/chair.jpg",
+        "price": 2750
+    },
+    {
+        "id":  "el5",
+        "name": "pillow",
+        "img": "img/catalog/pillow.jpg",
+        "price": 1700
+    },
+    {
+        "id":  "el6",
+        "name": "truck",
+        "img": "img/catalog/truck.jpg",
+        "price": 5200
+    },
+    {
+        "id":  "el7",
+        "name": "kvadro",
+        "img": "img/catalog/kvadro.jpg",
+        "price": 6350
+    },
+    {
+        "id": "el8",
+        "name": "tiro",
+        "img": "img/catalog/tiro.jpg",
+        "price": 2400
+    },
+    {
+        "id":  "el9",
+        "name": "spider",
+        "img": "img/catalog/spider.jpg",
+        "price": 1290
+    },
+    {
+        "id": "el10",
+        "name": "lol",
+        "img": "img/catalog/lol.jpg",
+        "price": 1780
+    }
+]
