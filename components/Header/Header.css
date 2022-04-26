@@ -2,7 +2,7 @@
     display: flex;
     height: 52px;
     padding: var(--spacing-small);
-    background-color: var(--color-medium);
+    background-color: var(#cccccc);
 
 }
 .header-counter {
